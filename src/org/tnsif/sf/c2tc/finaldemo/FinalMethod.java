@@ -3,7 +3,7 @@ package org.tnsif.sf.c2tc.finaldemo;
 
 class EcommercePlatform
 {
-	final void calculateDiscount()
+	void calculateDiscount()
 	{
 		System.out.println("Base discount =10%");
 	}
